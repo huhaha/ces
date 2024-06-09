@@ -5,7 +5,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
-        <loc>http://mp.weixin.qq.com/s?__biz=MzAwMzU1ODAwOQ</loc>
+        <loc>https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwMzU1ODAwOQ==#wechat_redirect</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
