@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>http://mp.weixin.qq.com/s?__biz=MzAwMzU1ODAwOQ==&amp;mid=2650341481&amp;idx=1&amp;sn=756f2bd2196da93d12b780933cf6046f&amp;chksm=8334ff7fb44376693defa26663ccf161a620c9d4120ffa59ce82eb37913bc02cda70a4052146&amp;scene=21#wechat_redirect</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <!-- Additional URLs go here -->
+</urlset>
